@@ -16,7 +16,6 @@ A full-stack web application that allows users to register, log in, and anonymou
 - HTML5, CSS3, EJS
 
 ## 📸 Screenshot
-![Secrets App Screenshot](screenshot.png)
 
 ## 📂 How to Run
 1. Clone the repository.
